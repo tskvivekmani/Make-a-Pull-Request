@@ -1,9 +1,10 @@
+# Contributing
 
-# Contributors (Add name)
+When contributing to this repository, please first read the steps carefully at https://www.gitstart.tech.
 
-KUDAKWASHE PARADZAYI (https://github.com/kudapara)
+Please note we have a [Code of Conduct](https://github.com/rishabh-bansal/GitStart/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
-RISHABH BANSAL (https://github.com/rishabh-bansal)
+## Things to remember while contributing :
 
 SHUBHANGI PANDEY (https://github.com/meshubhangi)
 
@@ -70,3 +71,7 @@ Christopher Moura (https://github.com/christophermoura)
 
 Vivekmani TSK (https://github.com/tskvivekmani)
 
+- Make sure you create the file ( **your-username.md** ) in **gitstart/src/profiles/** directory.
+- The file should be in **.md** ( **markdown** ) format. Please don't use **.txt** ( **text** ) format.
+- Please follow proper file format as mentioned in Step 4.
+- Make sure no file other than **your-username.md** should be present in your commmit.
